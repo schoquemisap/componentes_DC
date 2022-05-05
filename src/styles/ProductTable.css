@@ -1,0 +1,8 @@
+.product-table-header{
+    display: flex;
+    justify-content: space-evenly;
+}
+.product-table-header span{
+    font-size: 20px;
+    font-weight: 700;
+}
