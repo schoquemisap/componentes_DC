@@ -8,7 +8,6 @@ function SearchBar() {
         {/* Los siguientes van a la par input y label */}
         <input id='show-products' type="checkbox" />
         <label htmlFor="show-products">Only show products in stock</label>
-
     </div>
   )
 }
